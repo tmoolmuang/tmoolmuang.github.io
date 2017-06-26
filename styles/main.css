@@ -1,5 +1,18 @@
-html, body, #map {
-  height: 90%;
-  margin: 10px;
-  padding: 10px;
+html, .content {
+  background-color: #f0f5f5;
+}
+#map {
+  height: 700px;
+  margin: 15px 15px;
+  padding: 5px;
+}
+.content {
+  width: 100%;
+  margin: auto;
+}
+#panel {
+  padding: 40px 20px;
+  font-family: 'Abel', sans-serif;
+  font-size: 1.1em;
+  font-weight: 500;
 }
